@@ -13,3 +13,8 @@ For running just open the console, locate the main directory and run the followi
 I've only uploaded the main programs so if you want to install it must run the npm command.
 
 The latest file is "app-07-03.ts" from /src/, it have some issues. Must introduce IA for this bot because of the various questions of the clients. It's hard to manage so much questions with only menues.  
+
+For using the same must:
+1. Run "npm create builderbot@latest".
+2. copy the .ts files in the /src directory.
+3. cd main directory & "npm run dev" as admin. for windows or "sudo npm rnu dev" for linux.
