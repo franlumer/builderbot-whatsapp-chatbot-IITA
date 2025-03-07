@@ -16,6 +16,6 @@ The latest file is "app-07-03.ts" from /src/, it have some issues. Must introduc
 
 For using the same must:
 1. Run "npm create builderbot@latest".
-2. copy the .ts files in the /src directory.
+2. Copy the .ts files in the /src directory.
 3. Change the "package.json" file for the correspondent name of the file OR change the file name to "app.ts"
-4. cd main directory & "npm run dev" as admin. for windows or "sudo npm rnu dev" for linux.
+4. Cd main directory & "npm run dev" as admin. for windows or "sudo npm rnu dev" for linux.
